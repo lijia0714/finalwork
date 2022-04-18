@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/a/Desktop/finalResMapAssign/checkPoints/COCOcheckPoint/resNetAssign-350000"
+all_model_checkpoint_paths: "/Users/a/Desktop/finalResMapAssign/checkPoints/COCOcheckPoint/resNetAssign-350000"
